@@ -15,7 +15,7 @@ bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 .idea
-.iml
+untitled3.iml
 
 ### NetBeans ###
 /nbproject/private/
